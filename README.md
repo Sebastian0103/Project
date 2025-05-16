@@ -1,2 +1,4 @@
-# Project
-Fully repaired the script should work now since the new python update has been launched
+You need to have these apps: 
+Terminal
+Ubundu linux 
+Git bash
